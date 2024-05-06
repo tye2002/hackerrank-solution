@@ -1,3 +1,4 @@
+**Company: ShopBack**
 # Requirements:
 There are several interdependent resources being served from `"https://api.example.com"` where each resource is parameterized with some id. For example, the API `"https://api.example.com/resource1/id1/resource2/id2/resource3/id3"` serves the resource `"resource1/resource2/resource3"` and is said to have a 3-level dependency. 
 
